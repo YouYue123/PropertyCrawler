@@ -1,0 +1,14 @@
+Set-Cookie: PHPSESSID2=h2o2od91avfffino2akt2lvpc4; path=/; domain=.propertyguru.com.sg
+Set-Cookie: __PAGE_REFERRER=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=www.propertyguru.com.sg
+Set-Cookie: __PAGE_SITE_REFERRER=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=www.propertyguru.com.sg
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Repository: legacy
+Server: nginx
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Sat, 01 Apr 2017 09:15:19 GMT
+X-App-Server: production-web26:8018
+X-App-Server: distil2-kvm:80
+Content-Type: text/html; charset=UTF-8

@@ -1,0 +1,919 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie ie6 lte9 lte8 lte7 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie ie7 lte9 lte8 lte7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie ie8 lte9 lte8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie ie9 lte9" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en"> <!--<![endif]--><head>
+	<title></title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	
+	
+	<meta name="apple-itunes-app" content="app-id=482524585" />
+	<meta name="google-play-app" content="app-id=com.allproperty.android.consumer.sg" />
+
+	
+	<meta name="google-site-verification" content="9iVXbwdOPHOH_byBFBScAHm5x-kvcPzBS_fJBFPBwbo" />
+	<meta name="y_key" content="46acd457be6effa0" />	<meta name="msvalidate.01" content="893837EF69C47405FBAFAB120889A598" />	<link rel="SHORTCUT ICON" href="/images/favicon.ico" />
+	<link rel="search" type="application/opensearchdescription+xml" href="/search.xml" title="PropertyGuru Search" />
+	<link rel="apple-touch-icon" href="/images/mobile/touch-logo.png" />
+	<link rel="android-touch-icon" href="/images/mobile/touch-logo.png" />
+
+	<link rel="stylesheet" href="//cdn1.pgimgs.com/1490844355/sg-static/cssprod/propertyguru/layout.css" type="text/css"/>
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	    <link rel="stylesheet" href="//cdn1.pgimgs.com/1490844355/sg-static/cssprod/propertyguru/sg.css" type="text/css"/>	<link rel="stylesheet" href="//cdn1.pgimgs.com/1490844355/sg-static/cssprod/propertyguru/new_styles.css" type="text/css"/>
+
+	<script type="text/javascript" src="//cdn1.pgimgs.com/1490844355/sg-static/jsprod/lib/modernizr.js"></script>
+	<script type="text/javascript" src="//cdn1.pgimgs.com/1490844355/sg-static/jsprod/jquery-1.11.1.min.js"></script>
+
+	<script type="text/javascript">
+		var guruApp = {"environment":null,"widgetSearch":null,"widgetPoll":null,"widgetGoogleAnalytics":{"dimensions":{"dimension3":"Production","dimension4":"en","dimension13":"SG","dimension14":"web"},"googleAnalyticsObject":null,"config":{"trackingId":"UA-2417512-2","cookieDomain":"propertyguru.com.sg","siteSpeedSampleRate":10}},"widgetInsightsTracking":null,"userSession":{"user":{"id":null,"username":null,"roles":null,"shortlist":0,"beta":false}},"isResponsive":"false"};
+	</script>
+
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+	<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="/1490844355/sf2-search/css/legacy_css.css"/>
+	<link rel="stylesheet" href="/cssprod/rich/fixes.css?1490844355" type="text/css" media=""/>
+	<![endif]-->
+	<!--[if gt IE 8]><!-->
+	<link rel="stylesheet" type="text/css" href="https://cdn.pgimgs.com/1490844355/sf2-search/css/legacy_css.css"/>
+	<link rel="stylesheet" href="//cdn1.pgimgs.com/1490844355/sg-static/cssprod/rich/fixes.css" type="text/css"/>
+	<!--<![endif]-->
+	<!--[if lte IE 8]>
+	<script type="text/javascript" src="https://cdn.pgimgs.com/1490844355/sf2-search/bundles/guruweblayout/vendor/respond/respond.min.js"></script>
+	<![endif]-->
+
+	
+	<script type="text/javascript">
+	<!--
+	var GMAP_KEY = "AIzaSyAhPCGfcROG_jZAzaAW4TPjt7n3eNmw070";
+	var REGION = "SG";
+    var images = [];
+
+    var freetextUrl = '//api.propertyguru.com/v1/autocomplete?limit=10&locale=en&format=csv_legacy&region=sg&objectType=HDB_ESTATE,DISTRICT,PROPERTY,STREET,MRT_STATION,SCHOOL';
+
+    var insightsTracking = {"source":"web","region":"SG","host":"track.propertyguru.com","endpoint":"event.js","pageid":"web_filter_recaptcha","locale":"en","event_type":"lead","sessionIdName":"PHPSESSID2","visitorCookieName":"PGURU_VISITOR"};
+	//-->
+	</script>
+	<script type="text/javascript" src="//cdn1.pgimgs.com/1490844355/sg-static/jsprod/insightsTracking/tracking.js"></script>
+
+	<!-- GOOGLE AD MANAGER -->
+		
+					
+					<div class="clearboth"></div>
+			
+
+			<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "13151479" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=13151479&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+	<!-- GOOGLE ANALYTICS CODE -->
+	<script type="text/javascript" src="https://cdn.pgimgs.com/1490844355/sf2-search/bundles/guruwidget/js/desktop/jquery.widgetGoogleAnalytics.js"></script>
+	<!-- Google Analytics -->
+	
+	<script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	</script>
+	
+
+<script type="text/javascript">
+if (typeof guruApp != 'undefined' && typeof guruApp.widgetGoogleAnalytics != 'undefined' && guruApp.widgetGoogleAnalytics.googleAnalyticsObject != null) {
+    guruApp.widgetGoogleAnalytics.googleAnalyticsObject.init();
+}
+</script>
+	<script type="text/javascript" src="https://cdn.pgimgs.com/1490844355/sf2-search/bundles/guruweblayout/js/desktop/logger.js"></script>
+	<script type="text/javascript" src="https://cdn.pgimgs.com/1490844355/sf2-search/bundles/guruweblayout/js/desktop/jquery.eventDispatcher.js"></script>
+
+	<script type="text/javascript">
+        
+            $(document).ready(function () {
+                var $body = $('body'),
+                    track = function(category, action, label, value, noninteraction, dimensions) {
+                        label = cleanText(label);
+                        guruApp.widgetGoogleAnalytics.googleAnalyticsObject.trackEvent(category, action, label, value, noninteraction, dimensions);
+                    },
+                    cleanText = function(str) {
+                        return str.replace(/^https?:\/\/[^\/]+/, '').replace(/^\s+/, '').replace(/\s+$/, '').replace(/\s+/, ' ');
+                    };
+
+                $body.find('.dropdown .dropdown-menu li.mainnav-areainsider').click(function () {
+                    $body.trigger('ga.mainnav.areainsider.click');
+                });
+            });
+        
+	</script>
+
+    <!-- ELOQUA TRACKING CODE -->
+    
+<script type="text/javascript">
+    var _elqQ = _elqQ || [];
+    _elqQ.push(['elqSetSiteId', '659351510']);
+    _elqQ.push(['elqTrackPageView']);
+    
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+            s.src = '//img03.en25.com/i/elqCfg.min.js';
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+        else if (window.attachEvent) window.attachEvent('onload', async_load);
+    })();
+    
+</script>
+
+<script type="text/javascript" src="/ga966978.js" defer></script><style type="text/css">#d__fFH{position:absolute;top:-5000px;left:-5000px}#d__fF{font-family:serif;font-size:200px;visibility:hidden}#sxqtxtcavuzxrzyscwsxqtx{display:none!important}</style></head>
+<body id="web_filter_recaptcha" class="web_filter_recaptcha layout-web lang-en app-sg legacy">
+
+<div id="wrapper-outer">
+    <div id="wrapper">
+        <div id="wrapper-inner">
+                        <header id="navbar-main" class="navbar navbar-default">
+                <div class="header-bg">
+                    <div class="container">
+                        <nav class="header-nav clearfix" role="navigation">
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <i class="pgicon pgicon-menu"></i>
+                                </button>
+                                <a class="navbar-brand" href="/" title="PropertyGuru"><span>PropertyGuru</span></a>
+                            </div>
+
+
+
+                            <div class="navigation">
+                                <div class="nav-container">
+                                    <ul class="search-tools">
+                                        <li class="top-search">
+                                            <form  class="site-search" action="/property-search">
+                                                <input type="text" id="site-search-input" name="q" placeholder="Search"/>
+                                                <button type="submit" title="Search"><i class="pgicon pgicon-search"></i></button>
+                                                <button type="button" class="navbar-toggle">
+                                                    <span class="sr-only">Toggle navigation</span>
+                                                    <i class="pgicon pgicon-menu"></i>
+                                                </button>
+                                            </form>
+                                        </li>
+                                    </ul>
+
+                                    <ul class="nav navbar-nav">
+                                        <li class="">
+                                            <a href="/singapore-property-listing/property-for-sale" title="Property for Sale in Singapore" class="main-nav-a">Sale</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="/singapore-property-listing/property-for-rent" title="Property for Rent in Singapore" class="main-nav-a">Rent</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="/condo-directory" title="Singapore Condos" class="main-nav-a">Condos</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="/singapore-property-listing/hdb" title="Singapore HDB Flats" class="main-nav-a">HDB</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="/new-project-launch" title="New Property Launches" class="main-nav-a">New Projects</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="/overseas-property-for-sale" title="Singapore Overseas Property" class="main-nav-a">Overseas</a>
+                                        </li>
+                                        <li id="commercial-nav" class="">
+                                            <a href="//www.commercialguru.com.sg/" title="CommercialGuru" class="main-nav-a">Commercial</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="/property-agent-directory" title="Find Singapore Property Agent" class="main-nav-a">Find Agent</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="/market-news" title="Singapore Property Market Information" class="main-nav-a">News</a>
+                                        </li>
+                                        <li class=" dropdown">
+                                            <a href="#" data-target="#" title="More" class="main-nav-a dropdown-toggle" data-toggle="dropdown">More</a>
+                                            <ul class="dropdown-menu" role="menu">
+                                                <li class="">
+                                                    <a href="/mortgage" title="Singapore Property Mortgages">Mortgages</a>
+                                                </li>
+                                                <li class="mainnav-areainsider">
+                                                    <a href="/areainsider" title="Learn more about the areas in Singapore">AreaInsider</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="/property-investment-questions" title="Ask Guru for Singapore Real Estate Questions and Answers">Ask Guru</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="/service-apartments" title="Serviced Apartments in Singapore">Serviced Apartments</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="/homedesign" title="Home Design, Decorating and Renovation Ideas, PropertyGuru">Home Design</a>
+                                                </li>
+                                                <li class=" accordion">
+                                                    <a href="#" title="PropertyGuru Business Directory" class="collapsed" data-toggle="collapse" data-target="#main-nav-accordion-1">Lifestyle<i class="pgicon pgicon-down-open"></i><i class="pgicon pgicon-up-open"></i></a>
+                                                    <ul class="accordion-menu collapse" id="main-nav-accordion-1">
+                                                        <li class="">
+                                                            <a href="/lifestyle" title="PropertyGuru Business Directory">Overview</a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="/lifestyle/section/24/home-servicing" title="Home Servicing">Home Servicing</a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="/lifestyle/section/2/finance-legal" title="Finance &amp; Legal">Finance &amp; Legal</a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="/lifestyle/section/1/renovate-furnish" title="Renovate &amp; Furnish">Renovate &amp; Furnish</a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="/lifestyle/section/3/move-store" title="Move &amp; Store">Move &amp; Store</a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="/lifestyle/section/4/home-lifestyle" title="Home &amp; Lifestyle">Home &amp; Lifestyle</a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="/lifestyle/directory" title="Services Directory">Services Directory</a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li class=" accordion">
+                                                    <a href="#" title="Guides to help buy Property in Singapore" class="collapsed" data-toggle="collapse" data-target="#main-nav-accordion-2">Guides<i class="pgicon pgicon-down-open"></i><i class="pgicon pgicon-up-open"></i></a>
+                                                    <ul class="accordion-menu collapse" id="main-nav-accordion-2">
+                                                        <li class="">
+                                                            <a href="/singapore-property-resources" title="Guides to help buy Property in Singapore">Overview</a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="/singapore-property-resources/singapore-buy-property-guides" title="I Want to Buy a Property">Buying Property Guide</a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="/singapore-property-resources/singapore-sell-property-guides" title="I Want to Sell My Property">Selling Property Guide</a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="/singapore-property-resources/singapore-for-rent-guides" title="I Want to Rent Out My Property">For Rent Guide</a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="/singapore-property-resources/singapore-to-rent-guides" title="I am Looking for a Property to Rent">To Rent Guide</a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="/singapore-property-resources/singapore-relocation-guides" title="I am Moving to Singapore">Expat/Relocation Guide</a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="/singapore-property-resources/singapore-agents-guides" title="Working with Agents">Working with Agents</a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="/mortgage/calculators" title="Mortgage Calculators">Mortgage Calculators</a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="/valuation" title="Valuation Tools">Valuation Tools</a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="/singapore-property-resources/real-estate-jobs" title="Real Estate Careers">Real Estate Careers</a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li class=" accordion">
+                                                    <a href="#" title="For Agents" class="collapsed" data-toggle="collapse" data-target="#main-nav-accordion-3">For Agents<i class="pgicon pgicon-down-open"></i><i class="pgicon pgicon-up-open"></i></a>
+                                                    <ul class="accordion-menu collapse" id="main-nav-accordion-3">
+                                                        <li class="">
+                                                            <a href="/agents" title="Agent Packages">Agent Packages</a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="http://agentnet.propertyguru.com.sg" title="AgentNet">AgentNet</a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+
+                                </div>
+                            </div>
+
+                            <ul class="nav-tools"><li class="dropdown showWhenAuthenticated hide my-account">
+                                    <a class="pgicon pgicon-user dropdown-toggle" href="/user-profile" id="dropdownMenu1" data-toggle="dropdown" title="My Account">
+                                        <span class="hidden-xs hidden-sm">My Account</span>
+                                    </a>
+                                    <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                                        <li><a href="/user-profile" title="Profile &amp; Settings">Profile &amp; Settings</a></li>
+                                        <li class="divider" role="presentation"></li>
+                                        <li><a href="/shortlist" title="My Saved Properties">My Saved Properties</a></li>
+                                        <li><a href="/alerts" title="My Saved Searches">My Saved Searches</a></li>
+                                        <li><a href="/alerts" title="My Email Alerts">My Email Alerts</a></li>
+                                        <li><a href="/myenquiries" title="My Enquiries">My Enquiries</a></li>
+                                        <li><a href="/myquestions" title="My Questions">My Questions</a></li>
+                                        <li><a href="//agentnet.propertyguru.com.sg/ex_home" title="AgentNet" class="hide show-when-role_agent">AgentNet</a></li>
+                                        <li><a href="/feedback" title="Feedback">Feedback</a></li>
+                                        <li class="divider" role="presentation"></li>
+                                        <li><a href="/logout" title="Log out">Log out</a></li>
+                                    </ul>
+                                </li><li class="login showWhenNotAuthenticated hide">
+                                    <a href="/login?redirect=http%3A//www.propertyguru.com.sg/web_filter_recaptcha" class="pgicon pgicon-user" title="Log In">
+                                        <span class="hidden-xs hidden-sm">Log In</span>
+                                    </a>
+                                    <span class="hidden-xs hidden-sm"><b>or</b></span>
+                                    <a class="pgicon pgicon-users hidden-xs hidden-sm" href="/register" title="Sign Up">
+                                        <span class="hidden-xs hidden-sm">Sign Up</span>
+                                    </a>
+                                </li><li class="view-saved-listing shortlist-dropdown dropdown">
+                                    <a data-target="#" href="#shortlist" class="dropdown-toggle" data-toggle="dropdown" title="My Shortlist"><span class="js-session-saved-properties">0</span><i class="pgicon pgicon-heart"></i></a>
+                                    <div class="dropdown-menu">
+                                        <div id="multiple-enquire" class="multiple-enquire" data-get-shortlists-url="/sf2-search/ajax/shortlist">
+                                          <form action="/contact-multiple" method="post">
+                                            <input type="hidden" value="true" name="from_listings" />
+                                            <fieldset class="mltp-splash">
+                                              <legend>My Shortlist</legend>
+                                              <div>
+                                                <p><img src="/sf2-search/bundles/guruwidget/img/desktop/modal/signup-shortlist.png" alt="Shortlist properties and sync them across devices" /></p>
+                                                <h4>My Shortlist</h4>
+                                                <p class="shortlist-loading hide"><i class="pgicon pgicon-spinner pgicon-spin"></i></p>
+                                                <p>Click on  to save properties and they will appear here.</p>
+                                              </div>
+                                            </fieldset>
+                                            <fieldset class="mltp-selected">
+                                              <legend>My Shortlist</legend>
+                                              <div class="mltp-header">
+                                                <span>Recently Shortlisted <i class="pgicon pgicon-spinner pgicon-spin shortlist-loading hide"></i></span>
+                                                <a href="/shortlist" class="mltp-all mltp-see" title="See All">See All</a>
+                                              </div>
+                                              <div class="mltp-listings-items-container"></div>
+                                              <div class="mltp-btns">
+                                                <input type="hidden" name="redirect_url" value="http://www.propertyguru.com.sg/web_filter_recaptcha" />
+                                                <a class="btn btn-main-inverted btn-loginToSave" href="/login?redirect=http%3A//www.propertyguru.com.sg/web_filter_recaptcha" title="Login to Save">Login to Save</a>
+                                                <input type="submit" value="Send Enquiries" class="btn btn-primary pgicon pgicon-mail-alt" title="Send Enquiries" />
+                                              </div>
+                                            </fieldset>
+                                          </form>
+                                        </div>
+                                    </div>
+                                </li><li class="legacy-shortlist-link"><a href="/shortlist" title="My Shortlist"><span class="js-session-saved-properties">0</span><i class="pgicon pgicon-heart"></i></a></li></ul></nav>
+                    </div>
+                </div>
+
+                <div class="header-wobg">
+                    <!--// .container //-->
+                    <div class="container">
+                        <!--// Mobile Apps //-->
+                        <div class="mobile-apps">
+                            <a href="//www.commercialguru.com.sg/" title="CommercialGuru" rel="nofollow" target="_blank">
+                                <i class="pgicon pgicon-commercialguru"></i>
+                                <span>CommercialGuru</span>
+                            </a>
+                            <a class="get-mobile-link" href="/mobile" title="Get Mobile Apps">
+                                <i class="pgicon pgicon-apple"></i>
+                                <i class="pgicon pgicon-android"></i>
+                                <span>Get Mobile Apps</span>
+                            </a>
+                        </div>
+                        <!--// end: Mobile Apps //-->
+
+
+                        <!--// breadcrumb //-->
+                        
+                        <!--// end: .breadcrumb //-->
+
+                        <!--// users-tools //-->
+                        <nav class="users-tools">
+                            <ul></ul>
+                        </nav>
+                        <!--// users-tools //-->
+                    </div><!--// .container //-->
+                </div>
+            </header>
+
+        </div>
+    </div>
+</div>
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-XGQ4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-XGQ4');
+</script>
+<!-- End Google Tag Manager -->
+
+
+<!--// #container //-->
+<div id="container" class="container">
+
+	<!--// .container //-->
+	<div class="content row">
+
+								
+		<!-- GOOGLE AD MANAGER -->
+					
+					
+					<div class="clearboth"></div>
+			<div align="center"></div>
+
+			    <style type="text/css">
+    	#main_nonav { float: none; width:600px; margin: 0 auto; }
+    	#captcha_login form { margin: 0; padding: 0; text-align:center; }
+    	#breadcrumbs-new { display: none; }
+    	.recaptchatable *:not(input) { font-size: 0 !important; }
+    	#dCF_complete #dCF_input_complete { margin: 30px 0px; }
+    	#recaptcha_area, #recaptcha_table { margin: 0 auto; }
+    	.information { line-height:25px; }
+
+        #dCF_input_complete{
+          cursor: pointer;
+          display: inline-block;
+          background-color: #e6e6e6;
+          background-repeat: no-repeat;
+          background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), color-stop(25%, #ffffff), to(#e6e6e6));
+          background-image: -webkit-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+          background-image: -moz-linear-gradient(top, #ffffff, #ffffff 25%, #e6e6e6);
+          background-image: -ms-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+          background-image: -o-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+          background-image: linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+          filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#e6e6e6', GradientType=0);
+          padding: 5px 14px 6px;
+          text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+          color: #333;
+          font-size: 13px;
+          line-height: normal;
+          border: 1px solid #ccc;
+          border-bottom-color: #bbb;
+          -webkit-border-radius: 4px;
+          -moz-border-radius: 4px;
+          border-radius: 4px;
+          -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+          -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+          -webkit-transition: 0.1s linear all;
+          -moz-transition: 0.1s linear all;
+          -ms-transition: 0.1s linear all;
+          -o-transition: 0.1s linear all;
+          transition: 0.1s linear all;
+        }
+
+        #dCF_input_complete:hover {
+          background-position: 0 -15px;
+          color: #333;
+          text-decoration: none;
+        }
+
+        #dCF_input_complete:focus {
+          outline: 1px dotted #666;
+        }
+
+        #dCF_input_complete.active, #dCF_input_complete:active {
+        	background-image: none;
+        	-webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.25), 0 1px 2px rgba(0, 0, 0, 0.05);
+        	-moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.25), 0 1px 2px rgba(0, 0, 0, 0.05);
+        	box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.25), 0 1px 2px rgba(0, 0, 0, 0.05);
+        }
+
+        #dCF_input_complete { font-size: 16px; font-weight: bold; padding: 9px 14px; line-height: normal; }
+
+        #dCF_input_complete,
+        #dCF_input_complete:hover { color: #ffffff; text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25); }
+
+        #dCF_input_complete.active { color: rgba(255, 255, 255, 0.75); }
+
+        #dCF_input_complete { border-color: #ccc; border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25); }
+
+        #dCF_input_complete {
+          background-color: #da4f49;
+          *background-color: #bd362f;
+          background-image: -ms-linear-gradient(top, #ee5f5b, #bd362f);
+          background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ee5f5b), to(#bd362f));
+          background-image: -webkit-linear-gradient(top, #ee5f5b, #bd362f);
+          background-image: -o-linear-gradient(top, #ee5f5b, #bd362f);
+          background-image: -moz-linear-gradient(top, #ee5f5b, #bd362f);
+          background-image: linear-gradient(top, #ee5f5b, #bd362f);
+          background-repeat: repeat-x;
+          border-color: #bd362f #bd362f #802420;
+          border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+          filter: progid:dximagetransform.microsoft.gradient(startColorstr='#ee5f5b', endColorstr='#bd362f', GradientType=0);
+          filter: progid:dximagetransform.microsoft.gradient(enabled=false);
+        }
+
+        #dCF_input_complete:hover,
+        #dCF_input_complete:active,
+        #dCF_input_complete.active,
+        #dCF_input_complete.disabled,
+        #dCF_input_complete[disabled] {
+          background-color: #bd362f;
+          *background-color: #a9302a;
+        }
+
+        #dCF_input_complete:active,
+        #dCF_input_complete.active { background-color: #942a25 \9; }
+
+        #pageheader {
+            text-align: center;
+        }
+    </style>
+    <br/><br/>
+    <br/><br/>
+    <div id="captcha_login" style="width:100%;">
+       <div id="pageheader">
+            <h1 id="pagetitle">Hi! We just want to make sure you are a human.</h1>
+            <br/>
+            <p>Please enter the captcha below and we will get you on your way.</p>
+        </div>
+        <br/>
+        
+
+
+
+<form id="distilCaptchaForm" action="/distil_verify" method="post">
+        
+                <noscript>
+                        <iframe src="https://www.google.com/recaptcha/api/noscript?k=6LdZ2MQSAAAAAF9IX_B1VAAFdIbaUO1Efzz10N3b" height="300" width="930" frameborder="0"></iframe>
+                        <textarea name="recaptcha_challenge_field" rows="2" cols="40"></textarea>
+                        <input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+                </noscript>
+                <script type="text/javascript">
+                        if (!RecaptchaOptions){
+                                var RecaptchaOptions = { theme : 'blackglass' };
+                        }
+                </script>
+                <script type="text/javascript" src="https://www.google.com/recaptcha/api/challenge?k=6LdZ2MQSAAAAAF9IX_B1VAAFdIbaUO1Efzz10N3b"></script>
+        
+
+        <div id="dCF_complete">
+                <input type="hidden" name="V" value="12289" />
+                <input type="hidden" name="RM" value="GET" />
+                <input id="dCF_input_complete" type="submit" value="Complete Captcha" />
+        </div>
+        <div id="dCF_captcha_text">
+                You reached this page when attempting to access http://www.propertyguru.com.sg/ from 42.60.131.145 on 2017-04-01 09:15:19 GMT.<br />Trace: BA1B7EB4-16BB-11E7-A0F3-ED002AA7D6B2 via 3e9ff489-81f1-4790-8526-c9c4cabd80b3
+        </div>
+</form>
+    </div>
+		
+			
+					
+		
+			<div class="top10" style="clear: both;" align="center"></div>
+			<div class='clearboth'></div>
+
+		
+	</div>
+	<!--// end of .container //-->
+
+</div>
+<!--// end of #container //-->
+
+<!--[if lt IE 8]>
+    <div id="IE_FU" class="chromeframe">Your Internet Explorer is out of date. Please Upgrade to a newer version or other web browser to get the best possible experience using our website.</div>
+
+    <style type="text/css">
+	.IE_hto_iframe { display: none; }
+	.IE_brand { position:fixed; }
+	#IE_hto_logo { position: absolute; top: -5px; left: -10px; z-index:9999}
+	#IE_hto_close_button { float:right; cursor:pointer; z-index: 1000; position: absolute; top: -12px; left: 590px; }
+	.IE_hto_container { position: fixed; top:0;margin-top:120px; left:50%; margin-left:-300px; z-index:10000001; border:5px solid #ffbb00; }
+	.IE_hto_container.notloaded, .IE_dim.notloaded { width: 1px; height: 1px; top: -1px; left: -1px; overflow: hidden; display: none !important; }
+	.IE_hto_wrapper { width:600px; height:400px; overflow:hidden; background:#ffffff; }
+	.IE_hto_inside { font-size:15px; line-height:2.2em !important; padding:30px; }
+	.IE_hto_inside p { margin-bottom: 15px; }
+	.IE_hto_inside P.pagetitle { font-size:22px; font-weight:bold; margin-bottom: 15px; padding:0; letter-spacing:-1px; }
+	.IE_dim { top:0;left:0;width:100%;height:100%;background-color: #000;opacity: 0.5; filter: alpha(opacity = 50); z-index:10000000; }
+	.IE_hto_container .top10 { padding: 0; }
+</style>
+
+<div class="IE_brand IE_hto_container notloaded">
+	<div class="IE_hto_wrapper">
+		<div id="IE_hto_close_button"><img src="//sg1-cdn.pgimgs.com/images/pg/close-button.png" alt="close-button" /></div>
+		<div class="IE_hto_inside">
+			<P class="pagetitle">Do you know that your Internet Explorer is out of date?</P>
+			<p>To get the best possible experience using our website, we recommend that you upgrade to a newer version, or other web browser. Just click on the icons to get to the download page.</p>
+			<p class="aligncenter">
+				<a href="http://windows.microsoft.com/en-US/internet-explorer/download-ie" target="_blank"><img src="//sg1-cdn.pgimgs.com/images/static/download-ie.png" alt="Download the latest version of Internet Explorer" /></a>&nbsp;
+				<a href="http://www.mozilla.org/en-US/firefox/new/" target="_blank"><img src="//sg2-cdn.pgimgs.com/images/static/download-ff.png" alt="Download the latest version of FireFox" /></a>&nbsp;
+				<a href="https://www.google.com/intl/en/chrome/browser/" target="_blank"><img src="//sg1-cdn.pgimgs.com/images/static/download-chrome.png" alt="Download the latest version of Chrome" /></a>&nbsp;
+				<a href="http://www.apple.com/safari/" target="_blank"><img src="//sg1-cdn.pgimgs.com/images/static/download-safari.png" alt="Download the latest version of Safari" /></a>
+			</p>
+			<p>If you are already using Internet Explorer version 8 or 9, please ensure the “Compatibility View” is turned off. Click <a href="http://windows.microsoft.com/en-US/windows7/How-to-use-Compatibility-View-in-Internet-Explorer-9" target="_blank">HERE</a> to know how Compatibility View work.</p>
+			<p class="aligncenter"><img src="//sg2-cdn.pgimgs.com/images/static/compatibility-view.png" alt="Internet Explorer Compatibility View" />
+		</div>
+	</div>
+</div>
+<div class="IE_brand IE_dim notloaded"></div>
+
+<script type="text/javascript">
+	jQuery(function($) {
+		show_IEFU();
+
+		$('#IE_hto_close_button').click(function(){
+			$('.IE_brand').fadeOut(500);
+		});
+	});
+	function show_IEFU() {
+		$('.IE_hto_container, .IE_dim').removeClass('notloaded');
+		$('.IE_hto_iframe').show();
+	}
+</script>
+<![endif]-->
+
+<!--// Footer //-->
+<footer>
+	<div class="page-footer clearfix">
+		<a href="/" class="homebtn">PropertyGuru.com.sg - Singapore's Leading Property Site</a>
+		
+		<div id="main-footer">
+
+			<dl class="col">
+				<dt><a href="/singapore-property-listing/property-for-sale/1">Properties for Sale</a></dt>
+			  	<dd><a href="/apartment-condo/1" title="Singapore Condominiums For Sale">Condominiums for Sale</a></dd>
+			  	<dd><a href="/hdb-apartment/1" title="Singapore HDB Flats For Sale">HDB Flats for Sale</a></dd>
+			  	<dd><a href="/landed-house/1" title="Singapore Landed Properties For Sale">Landed Properties for Sale</a></dd>
+			  	<dd><a href="/shophouse/1" title="Singapore Shophouses  For Sale">Shophouses for Sale</a></dd>
+			</dl>
+			<dl class="col">
+				<dt><a href="/singapore-property-listing/property-for-rent/1">Properties for Rent</a></dt>
+			  	<dd><a href="/apartment-condo/property-for-rent/1" title="Singapore Condominiums For Rent">Condominiums for Rent</a></dd>
+			  	<dd><a href="/hdb-apartment/property-for-rent/1" title="Singapore HDB Flats For Sale">HDB Flats for Rent</a></dd>
+			  	<dd><a href="/landed-house/property-for-rent/1" title="Singapore Landed Properties For Sale">Landed Properties for Rent</a></dd>
+			  	<dd><a href="/shophouse/property-for-rent/1" title="Singapore Shophouses  For Sale">Shophouses for Rent</a></dd>
+			</dl>
+			<dl class="col">
+				<dt><a href="/schools/singapore-property-listings-for-sale">Nearby Properties</a></dt>
+			  	<dd><a href="/schools/singapore-property-listings-for-sale" title="Search Properties near Schools">Properties Near Schools</a></dd>
+			  	<dd><a href="/mrt/singapore-property-listings-for-sale" title="Search Properties near MRT Station">Properties Near MRT Stations</a></dd>
+			  	<dd><a href="/streetdirectory" title="Search Properties by Streets">Properties Near Streets</a></dd>
+			</dl>
+			<dl class="col">
+				<dt><a href="http://www.propertyguru.com.sg/singapore">Real Estate Directory</a></dt>
+			  	<dd><a href="/condo-directory" title="Find Singapore Condos">Condo Directory</a></dd>
+			  	<dd><a href="/singapore-property-listing/hdb" title="Singapore HDB Directory">HDB Directory</a></dd>
+			  	<dd><a href="/property-agent-directory" title="Find a Property Agent in Singapore">Agent Directory</a></dd>
+			  	<dd><a href="http://www.commercialguru.com.sg/commercial-property-directory" title="Singapore Commercial Properties" target="_blank">Commercial Directory</a></dd>
+			</dl>
+			<dl class="col last">
+			 	<dt>Resources</dt>
+			  	<dd><a href="/property-investment-questions" title="Ask Experts">Ask Guru</a></dd>
+			  	<dd><a href="/market-news" title="Singapore Property and Real Estate News" >Property Market News</a><dd>
+			  	<dd><a href="/valuation" title="Singapore Property Prices &amp; Valuation">Property Prices &amp; Valuation</a></dd>
+			  	<dd><a href="/singapore-property-resources" title="Singapore Real Estate &amp; Property Resources">Property Guides</a></dd>
+			  	<dd><a href="http://blog.propertyguru.com.sg/" title="Property Blog">Property Blog</a></dd>
+			</dl>
+			<dl class="col">
+				<dt>Investments</dt>
+			  	<dd><a href="/new-homes-for-sale" title="New Homes for Sale in Singapore">Singapore New Homes</a></dd>
+			  	<dd><a href="/overseas-property-for-sale" title="Find Overseas Property">Overseas Properties</a></dd>
+			  	<dd><a href="http://www.commercialguru.com.sg" title="Singapore Commercial Properties" target="_blank">Commercial Properties</a></dd>
+			</dl>
+			<dl class="col">
+				<dt>For Your Business</dt>
+			  	<dd><a href="/agents" title="For Real Estate Agents">Sell Your Properties</a></dd>
+			  	<dd><a href="/advertise" title="Get Sales Leads From Us">Get Sales Leads From Us</a></dd>
+			</dl>
+			<dl class="col">
+				<dt><a href="/mortgage">Mortgages</a></dt>
+				<dd><a href="/mortgage/home-loan">Find a Mortgage</a></dd>
+				<dd><a href="/mortgage/home-loan-refinance">Refinance a Mortgage</a></dd>
+				<dd><a href="/mortgage/affordability-calculator">Affordability Calculator</a></dd>
+				<dd><a href="/mortgage/calculators">Mortgage Calculators</a></dd>
+				<dd><a href="/singapore-property-resources/singapore-mortage-and-loan-guides/sibor-and-sor-what-you-need-to-know">SIBOR Guide</a></dd>
+				<dd><a href="/singapore-property-resources/singapore-mortage-and-loan-guides/mortgage-guide">Mortgage Guides</a></dd>
+			</dl>
+			<dl class="col">
+				<dt>Corporate Info</dt>
+			  	<dd><a href="/about-us" title="About PropertyGuru">About Us</a></dd>
+			  	<dd><a href="/contactus" title="Contact Us">Contact Us</a></dd>
+			  	<dd><a href="/customer-service/press-releases">Press</a></dd>
+			  	<dd><a href="http://career.propertyguru.com/" target="_blank">Jobs</a></dd>
+			</dl>
+			<ul class="social">
+			  <li><a class="footer_fb" href="http://www.facebook.com/Propertyguru.sg" target="_blank">Facebook</a></li>
+			  <li><a class="footer_tt" href="https://twitter.com/SGPropertyGuru" target="_blank">Twitter</a></li>
+			  <li>
+			  	<!-- Place this tag where you want the +1 button to render -->
+				<g:plusone href="http://www.propertyguru.com.sg" size="medium"></g:plusone>
+
+				<!-- Place this render call where appropriate -->
+				<script type="text/javascript">
+				  (function() {
+					var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+					po.src = 'https://apis.google.com/js/plusone.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+				  })();
+				</script>
+			  </li>
+			</ul>
+		</div>
+		
+		
+		<div id="bottom-footer">
+			<div id="copy">
+				<p class="font11">Copyright &copy; 2017 PropertyGuru Pte. Ltd., Asia's Leading Property Portal Group. All rights reserved.</p>
+				<ul>
+					<li><a href="/customer-service/terms-of-service" title="Terms of Service">Terms of Service</a></li>
+					<li><a href="/customer-service/privacy" title="Privacy Policy">Privacy Policy</a></li>
+					<li><a href="/customer-service/acceptable-use" title="Acceptable Use Policy">Acceptable Use Policy</a></li>
+					<li><a href="/customer-service/terms-of-purchase" title="Terms of Purchase">Terms of Purchase</a></li>
+					<li><a href="/sitemap" title="Sitemap">Sitemap</a></li>
+					<li>
+						<script language="javascript" type="text/javascript">
+						$(document).ready(function(){
+							$('#feedback_btn_2').click(function() {
+								loadDialog(600,300,'Feedback','/pg_feedback_form');
+							});
+						});
+						</script>
+						<a title="Feedback" id="feedback_btn_2" rel="nofollow" href="#" title="Feedback">Feedback</a>
+					</li>
+					<li><a href="/rss-feeds" title="RSS Feeds">RSS Feeds</a></li>
+				</ul>
+			</div>
+			<div id="flags">
+				<dl class="col last">
+				 	<dt class="font11">Our Network:</dt>
+				  	<dd><a id="my" href="http://www.propertyguru.com.my" title="Malaysia">Malaysia</a></dd>
+					<dd><a id="id" href="http://www.rumah.com/" title="Indonesia">Indonesia</a></dd>
+					<dd><a id="th" href="http://www.ddproperty.com" title="Thailand">Thailand</a></dd>
+					<dd><a id="de" href="http://www.immobilienscout24.de" title="Germany" target="_blank" rel="nofollow">Germany</a></dd>
+					<dd><a id="at" href="http://www.immobilienscout24.at" title="Austria" target="_blank" rel="nofollow">Austria</a></dd>
+					<dd><a id="ch" href="http://www.immoscout24.ch" title="Switzerland" target="_blank" rel="nofollow">Switzerland</a></dd>
+                    <dd><a id="au" href="http://www.domain.com.au/" title="Australia" target="_blank" rel="nofollow">Australia</a></dd>
+					<dd><a id="cn" href="http://www.soufun.com/" title="China" target="_blank" rel="nofollow">China</a></dd>
+					<dd><a id="hk" href="http://www.28hse.com" title="Hong Kong" target="_blank">Hong Kong</a></dd>
+					<dd><a id="in" href="http://www.99acres.com/" title="India" target="_blank" rel="nofollow">India</a></dd>
+					<dd><a id="vn" href="http://batdongsan.com.vn/" title="Vietnam" target="_blank">Vietnam</a></dd>
+				</dl>
+			</div>
+		</div>
+		
+
+		<!-- ASM script begin -->
+<div id="cX-root" style="display:none"></div>
+<script type="text/javascript">
+  var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+  cX.callQueue.push(['setAccountId', '9222285764214679876']);
+  cX.callQueue.push(['setSiteId', '9222285764214679877']);
+  cX.callQueue.push(['sendPageViewEvent']);
+</script>
+<script type="text/javascript">
+  (function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
+  scriptEl.src = ('https:' == document.location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js';
+  var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {};} ());
+</script>
+<!-- ASM script end -->
+		
+		
+		                		
+					
+					
+		
+	</div>
+</footer>
+<!--// END: Footer //-->
+
+<!--// Facebook like button -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) {return;}
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+<!--// END: Facebook like button -->
+	<!-- PLACE THIS CODE AT THE END OF THE BODY TAG -->
+<script type="text/javascript" src="https://fluidsurveys-com.fs.cm/media/static/survey-prompts.js?"></script>
+<script type="text/javascript">
+
+	if ("web_filter_recaptcha" != "home" && typeof GURU_EXCLUDE_NPS == 'undefined')
+	{
+	    var FSPROMPT = new SurveyPrompt({
+	        id: 6608,
+	        href: "https://fluidsurveys.com/s/propertyguru/nps-consumer-sg/prompt/6608/",
+	        "$": jQuery,
+	        cookie: 'FSPrompt-6608'
+	    }).setup();
+    }
+    jQuery.noConflict(true);
+</script>
+
+
+
+
+<script type="text/javascript" src="//cdn1.pgimgs.com/1490844355/sg-static/jsprod/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="//cdn1.pgimgs.com/1490844355/sg-static/jsprod/rich.js"></script>
+
+<script type="text/javascript" src="//cdn1.pgimgs.com/1490844355/sg-static/jsprod/jquery.ui.js"></script>
+<script type="text/javascript" src="//cdn1.pgimgs.com/1490844355/sg-static/jsprod/uilib.js"></script>
+
+
+
+<script type="text/javascript" src="//cdn1.pgimgs.com/1490844355/sg-static/jsprod/jquery.autocomplete.js"></script>
+
+
+
+
+<script type="text/javascript" src="//cdn1.pgimgs.com/1490844355/sg-static/jsprod/rating.js"></script>
+<script type="text/javascript" src="//cdn1.pgimgs.com/1490844355/sg-static/jsprod/jquery/lazyload.js"></script>
+<script type="text/javascript" src="//cdn1.pgimgs.com/1490844355/sg-static/jsprod/rich/bootstrap.collapse.js"></script>
+<script type="text/javascript" src="//cdn1.pgimgs.com/1490844355/sg-static/jsprod/rich/rich.hooks.js"></script>
+
+<link rel="stylesheet" href="//cdn1.pgimgs.com/1490844355/sg-static/cssprod/touch/smart-app-banner.css" type="text/css" media="screen"/>
+<script type="text/javascript" src="//cdn1.pgimgs.com/1490844355/sg-static/jsprod/touch/smart-app-banner.js"></script>
+<script type="text/javascript">
+    new SmartBanner({
+        daysHidden: 15,   // days to hide banner after close button is clicked (defaults to 15)
+        daysReminder: 90, // days to hide banner after "VIEW" button is clicked (defaults to 90)
+        appStoreLanguage: 'us', // language code for the App Store (defaults to us)
+        title: 'PropertyGuru Singapore',
+        author: 'PropertyGuru Pte Ltd',
+        button: 'OPEN',
+        store: {
+            ios: 'On the App Store',
+            android: 'In Google Play'
+        },
+        price: {
+            ios: 'FREE',
+            android: 'FREE'
+        }
+    });
+</script>
+
+<!-- Should be loaded only when the page requires it -->
+<script type="text/javascript">
+    jQuery(function($) {
+
+    	//if (!($.browser.msie && $.browser.version <= "7.0")) {
+	    $(document).ready(function(){
+		    $('img.lazy').lazyload({
+			    threshold: 200,
+			    effect: 'fadeIn'
+		    });
+		    $('img.lazy').addClass('IE_FU!');
+
+		    $(window).resize();
+	    })
+    	//}
+
+        if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad/i)) || (navigator.userAgent.match(/Android/i))) {
+            $("#nav li a").click(function(){
+                if ($(this).parents('li').find('ul').length > 0) {
+                    if (!$(this).parents('li').find('ul').css('visibility')) {
+                        $(this).parents('li').find('ul').toggle();
+                        return false;
+                    }
+                }
+            });
+        }
+
+        // Google Ad Manager top10 fix
+        $('script').each(function() {
+            $(this).next('script').next('.clearboth').remove();
+        });
+
+        /* tipsy */
+		//$('#toolbar li a').tipsy();
+		$('ul.listing_facility li').tipsy();
+		
+		$('div.vote a').tipsy({gravity: $.fn.tipsy.autoNS});
+		$('#flags dd a').tipsy({gravity: $.fn.tipsy.autoNS});
+		
+
+	});
+</script>
+
+<!--[if lte IE 7]>
+<script type="text/javascript">
+jQuery(function($){
+	$('img.lazy').each(function(i, e){
+		$(this).attr('src', $(this).attr('data-original'));
+	});
+})
+</script>
+<![endif]-->
+
+
+<script type="text/javascript">
+	setTimeout(function(){var a=document.createElement("script");
+	var b=document.getElementsByTagName("script")[0];
+	a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/0948.js?"+Math.floor(new Date().getTime()/3600000);
+	a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<script type="text/javascript" src="https://cdn.pgimgs.com/1490844355/sf2-search/js/desktop_js_footer_legacy_for_richheader.js"></script>
+</body>
+</html>

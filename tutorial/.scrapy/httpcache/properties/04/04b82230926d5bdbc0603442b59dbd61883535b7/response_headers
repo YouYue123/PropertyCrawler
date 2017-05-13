@@ -1,0 +1,8 @@
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Repository: legacy
+Server: nginx
+Date: Sat, 01 Apr 2017 09:15:19 GMT
+X-App-Server: production-web24:8018
+X-App-Server: distil2-kvm:80
+Content-Type: text/plain;charset=UTF-8

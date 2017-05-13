@@ -1,0 +1,11 @@
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Content-Encoding: gzip
+Surrogate-Control: no-store, bypass-cache
+Vary: Accept-Encoding
+Server: nginx
+Edge-Control: no-store, bypass-cache
+Cache-Control: no-cache
+Cache-Control: private, no-cache, no-store, must-revalidate
+Date: Sat, 01 Apr 2017 09:15:19 GMT
+X-App-Server: distil1-kvm:80
+Content-Type: text/html
