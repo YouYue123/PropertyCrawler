@@ -1,5 +1,6 @@
 import scrapy
 import logging
+import csv
 import os
 from scrapy.shell import inspect_response
 from scrapy.utils.response import open_in_browser
@@ -20,40 +21,42 @@ fakeHeader={
 
 class DistanceSpider(scrapy.Spider):
     name = "distance"
+    indexNumber = 0
     def start_requests(self):
+        toPostcodeList = []
+        toAddress = []
         cwd = os.getcwd()
-        workbook = load_workbook(cwd + '/part1_getting_url.xlsx')
-        first_sheet = workbook.get_sheet_names()[0]
-        worksheet = workbook.get_sheet_by_name(first_sheet)
+        with open(cwd + '/postcode.csv', 'rU') as csvfile:
+            reader = csv.reader(csvfile, delimiter=',')
+            for row in reader:
+                toAddress.append(row[0])
+                toPostcodeList.append(row[1])
+
+        # workbook = load_workbook(cwd + '/part1_getting_url.xlsx')
+        # first_sheet = workbook.get_sheet_names()[0]
+        # worksheet = workbook.get_sheet_by_name(first_sheet)
         urls = []
-        for index,row in enumerate(worksheet.iter_rows()):
-            if index != 0:
-                fromPostcode = row[0].internal_value
-                toPostcode = row[1].internal_value
+        accumulateNumber = -100
+        for postcode in toPostcodeList:
+                fromPostcode = 257717
+                toPostcode = postcode
+                if toPostcode == '0':
+                    toPostcode = accumulateNumber
+                    accumulateNumber += 1
                 url = "http://distancecalculator.globefeed.com/Singapore_Distance_Result.asp?fromplace={0}&toplace={1}".format(fromPostcode,toPostcode)
                 urls.append(url)
-        print urls
         for url in urls:
-            yield SplashRequest(url, self.parse)
+            print url
+            yield SplashRequest(url,self.parse,args={'wait': 10})
 
     def parse(self, response):
         # open_in_browser(response)
-        drivingDistance = response.css('span#drvDistance.badge').xpath('text()')[0].extract()
+        drivingDistance = '-1 km'
+        if len(response.css('span#drvDistance.badge').xpath('text()')) >= 1:
+            drivingDistance = response.css('span#drvDistance.badge').xpath('text()')[0].extract()
+        self.indexNumber += 1
         yield {
+            'index': self.indexNumber,
+            'url': response.url,
             'distance': drivingDistance
         }
-        # yield {
-        #     'propertyTitle': propertyTitle,
-        #     'propertyType': propertyType,
-        #     'propertyLocation': propertyLocation,
-        #     'propertySize': propertySize,
-        #     'propertyFeature': propertyFeature,
-        #     'propertyCost': propertyCost,
-        #     'propertyContactNumber': propertyContactNumber,
-        #     'propertyContactPerson': propertyContactPerson,
-        #     'propertyUpdateTime': propertyUpdateTime,
-        # }
-        # if len(response.headers.getlist('Set-Cookie')) > 0:
-        #     fakeCookie['PHPSESSID2'] = response.headers.getlist('Set-Cookie')[0].split(";")[0].split("=")[1]
-        # if len(response.headers.getlist('Set-Cookie')) > 1:
-        #     fakeCookie['sixpack_client_id'] = response.headers.getlist('Set-Cookie')[1].split(";")[0].split("=")[1]
